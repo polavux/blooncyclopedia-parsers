@@ -10,7 +10,7 @@ zone_names = ["Popping Fields", "Bloon Dunes", "Frosty Fun", "Sneak Peeks", "Rub
 zone_links = ["[[Popping Fields]]", "[[Bloon Dunes (Bloons 2)|Bloon Dunes]]", "[[Frosty Fun]]", "[[Sneak Peeks]]", "[[Rubber Jungle]]", "[[Temple Of Bloon|The Temple of Bloon]]", "[[Crazy Coast]]", "[[Mount Magma (Bloons 2)|Mount Magma]]", "[[Pirate Cove (Bloons 2)|Secret Zone]]"]
 
 def get_ordinal(num):
-    if num == 11: return "11th"
+    if num > 10 and num < 20: return f"{num}th"
 
     match num % 10:
         case 1: return f"{num}st"
@@ -169,4 +169,5 @@ try:
     print("Finished")
 
 except Exception as e:
+
     print(f"An unexpected error occurred: {e}")
