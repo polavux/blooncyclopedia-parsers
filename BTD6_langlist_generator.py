@@ -9,7 +9,7 @@ def n(lang, key):
             if child_node.attrib["id"] == key: return child_node.text
 
 def get_args():
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser("Generates a langlist template for a given localization key. Requires extracting all of BTD6's localization files and storing them in the same folder as this script.")
     parser.add_argument("key", type=str, help="The localization key (enclose it in quotation marks if it contains any spaces)")
     parser.add_argument("--label", type=str, help="Adds a label to the langlist")
     parser.add_argument("--collapsed", action="store_true", help="Flags the langlist as collapsed by default")
@@ -47,4 +47,5 @@ if __name__ == "__main__":
 
     print()
     print(output)
+
     pyperclip.copy(output)
