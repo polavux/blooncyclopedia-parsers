@@ -1,0 +1,9 @@
+1) Download B1 Free Archiver (7zip doesn't work)
+2) Open the jet file with the textures you want in B1 Free Archiver
+3) Extract the assets using the password bJ2thyhRsN69jDD6
+
+Textures are JPNGs, despite using the PNG extension. You can convert a texture to a PNG by changing the extension of the texture from .png to .jpng and using Topper's Monkey Wrench tool (it only works if the file has the extension .jpng).
+
+there's probably a way of automating this but I didn't feel like doing it.
+
+Note that files containing actual game data (tower blueprints, cosmetic item sets, rounds, modes, etc) are encrypted separately. There's probably people in the B2 Popology server who know what to do with those.

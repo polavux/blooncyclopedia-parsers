@@ -1,7 +1,0 @@
-1) Download B1 Free Archiver (7zip doesn't work)
-2) Open the jet file with the textures you want in B1 Free Archiver
-3) Extract the textures using the password bJ2thyhRsN69jDD6
-4) Change the extension of the texture from .png to .jpng and use Topper's Monkey Wrench app to convert it to a proper png
-
-
-there's probably a way of automating this but I didn't feel like doing it
