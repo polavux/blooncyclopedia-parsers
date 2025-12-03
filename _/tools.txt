@@ -3,4 +3,5 @@ Tools I use
 - il2cppdumper for extracting code symbols and dlls from unity games (necessary for some monobehaviors)
 - Monkey Wrench from topper64.co.uk for various things relating to the BTD5 gen
 - Ghidra, dnspy, and ida for various reverse engineering things
-
+- JPEXS for extracting assets from flash games and looking at their code
+- B1 Free Archiver for Battles 2 assets
