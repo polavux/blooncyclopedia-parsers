@@ -2,3 +2,4 @@ Tools I use
 - AssetStudio for extracting assets from unity games (look for forked versions that are more up to date)
 - il2cppdumper for extracting code symbols and dlls from unity games (necessary for some monobehaviors)
 - Monkey Wrench from topper64.co.uk for various things relating to the BTD5 gen
+- Ghidra and dnspy for various reverse engineering things
