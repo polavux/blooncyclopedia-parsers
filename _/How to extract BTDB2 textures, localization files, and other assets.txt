@@ -6,4 +6,4 @@ Textures are JPNGs, despite using the PNG extension. You can convert a texture t
 
 there's probably a way of automating this but I didn't feel like doing it.
 
-Note that files containing actual game data (tower blueprints, cosmetic item sets, rounds, modes, etc) are encrypted separately. There's probably people in the B2 Popology server who know what to do with those.
+Note that files containing actual game data (tower blueprints, cosmetic item sets, rounds, modes, etc) are encrypted separately. There's probably people in the B2 Popology server who know what to do with those. For cosmetic item IDs, I got them from the server side data by analyzing skusettings files with NKIsAwesome's DGDATA editor, or if that wasn't possible, I searched for them in text dumps of the game's memory at runtime.
