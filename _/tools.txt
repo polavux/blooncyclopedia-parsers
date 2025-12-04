@@ -5,4 +5,5 @@ Tools I use
 - Ghidra, dnspy, and ida for various reverse engineering things
 - JPEXS for extracting assets from flash games and looking at their code
 - B1 Free Archiver for Battles 2 assets
-
+- Tinke for DSiWare assets
+- ShowMiiWADs for WiiWare assets
