@@ -7,3 +7,4 @@ Tools I use
 - B1 Free Archiver for Battles 2 assets
 - Tinke for DSiWare assets
 - ShowMiiWADs for WiiWare assets
+- https://nkisawesome.github.io/dgdata for dgdata files
