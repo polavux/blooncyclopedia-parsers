@@ -8,3 +8,4 @@ Tools I use
 - Tinke for DSiWare assets
 - ShowMiiWADs for WiiWare assets
 - https://nkisawesome.github.io/dgdata for dgdata files
+- Not really a tool but I can view server side data like daily challenge parameters and xpromos by changing my user agent on firefox to "btd6-windowsplayer"
